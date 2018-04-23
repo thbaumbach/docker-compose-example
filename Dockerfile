@@ -1,6 +1,6 @@
 FROM node:8.11-alpine
 
-ADD . /app
+ADD ./web-src /app
 
 WORKDIR /app
 
