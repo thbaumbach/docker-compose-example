@@ -1,6 +1,6 @@
-# docker-compose-minimal-example
+# docker-compose-example
 
-minimal example for docker-compose using Node.js & Redis
+> (minimal) example for docker-compose using Node.js & Redis
 
 Requirements:
 
