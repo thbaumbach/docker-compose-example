@@ -1,0 +1,29 @@
+{
+    "name": "docker-compose-minimal-example",
+    "version": "0.1.0",
+    "description": "minimal example for docker-compose using Node.js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/thbaumbach/docker-compose-minimal-example.git"
+    },
+    "keywords": [
+        "docker",
+        "docker-compose",
+        "node"
+    ],
+    "author": "Thomas Baumbach <tom@xolo.pw>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/thbaumbach/docker-compose-minimal-example/issues"
+    },
+    "homepage": "https://github.com/thbaumbach/docker-compose-minimal-example#readme",
+    "dependencies": {
+        "express": "^4.16.3",
+        "redis": "^2.8.0"
+    }
+}
